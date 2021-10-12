@@ -55,10 +55,10 @@
             <div class="col-lg-4 col-md-4 col-sm-5">
                 <ul class="top-social-media pull-right">
                     <li>
-                        <a href="login.html" class="sign-in"><i class="fa fa-sign-in"></i> Login</a>
+                        <a href="login.php" class="sign-in"><i class="fa fa-sign-in"></i> Login</a>
                     </li>
                     <li>
-                        <a href="signup.html" class="sign-in"><i class="fa fa-user"></i> Register</a>
+                        <a href="signup.php" class="sign-in"><i class="fa fa-user"></i> Register</a>
                     </li>
                 </ul>
             </div>
@@ -71,7 +71,7 @@
 <header class="main-header sticky-header header-with-top">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand company-logo" href="index.html">
+            <a class="navbar-brand company-logo" href="index.php">
                 <img src="img/logos/black-logo.png" alt="logo">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -85,24 +85,24 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="cars.html">
+                        <a class="nav-link" href="cars.php">
                             Cars
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/carhouse/about.html">
+                        <a class="nav-link" href="about.php">
                             About
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">
+                        <a class="nav-link" href="services.php">
                             Services
                         </a>
                     </li>
                     
                     
                     <li class="nav-item dropdown">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item dropdown m-hide">
                         <a href="#full-page-search" class="nav-link h-icon">
@@ -126,7 +126,7 @@
                     <h3>Wow Factor Standard</h3>
                     <h5>Allow us to guide you through the innovative stress<br>
                         free approach in finding your dream car.</h5>
-                    <a href="services.html" class="btn btn-lg btn-theme">Read more</a>
+                    <a href="services.php" class="btn btn-lg btn-theme">Read more</a>
                 </div>
             </div>
             <div class="carousel-item banner-max-height item-bg">
@@ -241,7 +241,7 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="car-details.html" class="car-img">
+                            <a href="car-details.php" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
                                     <span class="del"><del>$805.00</del></span>
@@ -277,10 +277,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="car-details.html">Lamborghini Huracán</a>
+                                <a href="car-details.php">Lamborghini Huracán</a>
                             </h1>
                             <div class="location">
-                                <a href="car-details.html">
+                                <a href="car-details.php">
                                     <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                                 </a>
                             </div>
@@ -298,7 +298,7 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="car-details.html" class="car-img">
+                            <a href="car-details.php" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
                                     <span class="del"><del>$830.00</del></span>
@@ -335,10 +335,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="car-details.html">Audi Q7 2018</a>
+                                <a href="car-details.php">Audi Q7 2018</a>
                             </h1>
                             <div class="location">
-                                <a href="car-details.html">
+                                <a href="car-details.php">
                                     <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                                 </a>
                             </div>
@@ -356,7 +356,7 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="car-details.html" class="car-img">
+                            <a href="car-details.php" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
                                     <span class="del"><del>$820.00</del></span>
@@ -392,10 +392,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="car-details.html">Toyota Prius Specs</a>
+                                <a href="car-details.php">Toyota Prius Specs</a>
                             </h1>
                             <div class="location">
-                                <a href="car-details.html">
+                                <a href="car-details.php">
                                     <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                                 </a>
                             </div>
@@ -413,7 +413,7 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="car-details.html" class="car-img">
+                            <a href="car-details.php" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
                                     <span class="del"><del>$740.00</del></span>
@@ -449,10 +449,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="car-details.html">2015 Porsche Cayenne</a>
+                                <a href="car-details.php">2015 Porsche Cayenne</a>
                             </h1>
                             <div class="location">
-                                <a href="car-details.html">
+                                <a href="car-details.php">
                                     <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                                 </a>
                             </div>
@@ -470,7 +470,7 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="car-details.html" class="car-img">
+                            <a href="car-details.php" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
                                     <span class="del"><del>$805.00</del></span>
@@ -506,10 +506,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="car-details.html">Lexus GS Red Car</a>
+                                <a href="car-details.php">Lexus GS Red Car</a>
                             </h1>
                             <div class="location">
-                                <a href="car-details.html">
+                                <a href="car-details.php">
                                     <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                                 </a>
                             </div>
@@ -527,7 +527,7 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="car-details.html" class="car-img">
+                            <a href="car-details.php" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
                                     <span class="del"><del>$650.00</del></span>
@@ -563,10 +563,10 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="car-details.html">Toyota Corolla</a>
+                                <a href="car-details.php">Toyota Corolla</a>
                             </h1>
                             <div class="location">
-                                <a href="car-details.html">
+                                <a href="car-details.php">
                                     <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                                 </a>
                             </div>
@@ -607,7 +607,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="car-details.html" class="car-img">
+                        <a href="car-details.php" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="img/car/car-1.jpg" alt="car">
                             <div class="facilities-list clearfix">
@@ -651,10 +651,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="car-details.html">Lamborghini Huracán</a>
+                            <a href="car-details.php">Lamborghini Huracán</a>
                         </h1>
                         <div class="location">
-                            <a href="car-details.html">
+                            <a href="car-details.php">
                                 <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                             </a>
                         </div>
@@ -672,7 +672,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="car-details.html" class="car-img">
+                        <a href="car-details.php" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="img/car/car-2.jpg" alt="car">
                             <div class="facilities-list clearfix">
@@ -716,10 +716,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="car-details.html">Lexus GS Red Car</a>
+                            <a href="car-details.php">Lexus GS Red Car</a>
                         </h1>
                         <div class="location">
-                            <a href="car-details.html">
+                            <a href="car-details.php">
                                 <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                             </a>
                         </div>
@@ -737,7 +737,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="car-details.html" class="car-img">
+                        <a href="car-details.php" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="img/car/car-3.jpg" alt="car">
                             <div class="facilities-list clearfix">
@@ -781,10 +781,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="car-details.html">2015 Porsche Cayenne</a>
+                            <a href="car-details.php">2015 Porsche Cayenne</a>
                         </h1>
                         <div class="location">
-                            <a href="car-details.html">
+                            <a href="car-details.php">
                                 <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                             </a>
                         </div>
@@ -802,7 +802,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="car-details.html" class="car-img">
+                        <a href="car-details.php" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="img/car/car-4.jpg" alt="car">
                             <div class="facilities-list clearfix">
@@ -846,10 +846,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="car-details.html">Toyota Corolla</a>
+                            <a href="car-details.php">Toyota Corolla</a>
                         </h1>
                         <div class="location">
-                            <a href="car-details.html">
+                            <a href="car-details.php">
                                 <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                             </a>
                         </div>
@@ -867,7 +867,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="car-details.html" class="car-img">
+                        <a href="car-details.php" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="img/car/car-5.jpg" alt="car">
                             <div class="facilities-list clearfix">
@@ -911,10 +911,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="car-details.html">Toyota Prius Specs</a>
+                            <a href="car-details.php">Toyota Prius Specs</a>
                         </h1>
                         <div class="location">
-                            <a href="car-details.html">
+                            <a href="car-details.php">
                                 <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                             </a>
                         </div>
@@ -932,7 +932,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="car-details.html" class="car-img">
+                        <a href="car-details.php" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="img/car/car-6.jpg" alt="car">
                             <div class="facilities-list clearfix">
@@ -976,10 +976,10 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="car-details.html">Audi Q7 2018</a>
+                            <a href="car-details.php">Audi Q7 2018</a>
                         </h1>
                         <div class="location">
-                            <a href="car-details.html">
+                            <a href="car-details.php">
                                 <i class="flaticon-pin"></i>123 Kathal St. Tampa City,
                             </a>
                         </div>
@@ -1117,7 +1117,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-12">
-                <a href="contact.html" class="btn btn-md">Get in Touch</a>
+                <a href="contact.php" class="btn btn-md">Get in Touch</a>
             </div>
         </div>
     </div>
@@ -1183,7 +1183,7 @@
                                         <span class="del-2">$1050.00</span>
                                     </div>
                                     <div class="">
-                                        <a href="car-details.html" class="btn btn-md btn-round btn-theme">Convertible</a>
+                                        <a href="car-details.php" class="btn btn-md btn-round btn-theme">Convertible</a>
                                     </div>
                                 </div>
                             </div>
@@ -1221,7 +1221,7 @@
                                 <div class="description">
                                     <h3>Description</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
-                                    <a href="car-details.html" class="btn btn-md btn-round btn-theme">Show Detail</a>
+                                    <a href="car-details.php" class="btn btn-md btn-round btn-theme">Show Detail</a>
                                 </div>
                             </div>
                         </div>
