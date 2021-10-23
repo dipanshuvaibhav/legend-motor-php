@@ -62,10 +62,10 @@
             <div class="col-lg-4 col-md-4 col-sm-5">
                 <ul class="top-social-media pull-right">
                     <li>
-                        <a href="login.html" class="sign-in"><i class="fa fa-sign-in"></i> Login</a>
+                        <a href="login.php" class="sign-in"><i class="fa fa-sign-in"></i> Login</a>
                     </li>
                     <li>
-                        <a href="signup.html" class="sign-in"><i class="fa fa-user"></i> Register</a>
+                        <a href="signup.php" class="sign-in"><i class="fa fa-user"></i> Register</a>
                     </li>
                 </ul>
             </div>
@@ -78,7 +78,7 @@
 <header class="main-header sticky-header header-with-top">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand company-logo" href="index.html">
+            <a class="navbar-brand company-logo" href="index.php">
                 <img src="img/logos/black-logo.png" alt="logo">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -87,28 +87,28 @@
             <div class="navbar-collapse collapse w-100" id="navbar">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link dropdown-toggle" href="index.html" >
+                        <a class="nav-link dropdown-toggle" href="index.php" >
                             Home
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="cars.html">
+                        <a class="nav-link" href="cars.php">
                             Cars
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/carhouse/about.html">
+                        <a class="nav-link" href="about.php">
                             About
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">
+                        <a class="nav-link" href="services.php">
                             Services
                         </a>
                     </li>
                     
                     <li class="nav-item dropdown">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item dropdown m-hide">
                         <a href="#full-page-search" class="nav-link h-icon">
@@ -128,7 +128,7 @@
         <div class="breadcrumb-areas">
             <h1>About Us</h1>
             <ul class="breadcrumbs">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li class="active">About Us</li>
             </ul>
         </div>
@@ -214,7 +214,7 @@
                             </div>
                         </div>
                         <div class="details">
-                            <h4><a href="team-detail.html">Brandon Miller</a></h4>
+                            <h4><a href="team-detail.php">Brandon Miller</a></h4>
                             <h5>Manager</h5>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                             </div>
                         </div>
                         <div class="details">
-                            <h4><a href="team-detail.html">Michelle Nelson</a></h4>
+                            <h4><a href="team-detail.php">Michelle Nelson</a></h4>
                             <h5>Support Manager</h5>
                         </div>
                     </div>
@@ -402,7 +402,7 @@
                                 <div class="description">
                                     <h3>Description</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
-                                    <a href="car-details.html" class="btn btn-md btn-round btn-theme">Show Detail</a>
+                                    <a href="car-details.php" class="btn btn-md btn-round btn-theme">Show Detail</a>
                                 </div>
                             </div>
                         </div>
